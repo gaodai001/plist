@@ -25,13 +25,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ishitong.hello</string>
+				<string>com.nsfocus.kk</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.1.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>hello</string>
+				<string>kk</string>
 			</dict>
 		</dict>
 	</array>
